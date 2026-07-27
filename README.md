@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sophomore at Dartmouth College studying Computer Science and Neuroscience, passionate about building AI-powered applications that solve real problems. I work as a research assistant at Geisel School of Medicine developing AI platforms for mood disorder interventions, and previously co-founded FoldSpace, an AI-driven spatial design platform. When I'm not coding, you'll find me teaching as a CS TA, mentoring students in algorithms and data structures, or exploring the latest in machine learning. I love working across the full stack from React frontends to Python backends,and I'm always looking for the next challenging project to dive into.
+I'm a junior at Dartmouth College studying Computer Science and Mathematics, passionate about building AI-powered applications that solve real problems. I work as an AI Engineer at Lenovo and at school as a research assistant at Geisel School of Medicine developing AI platforms for mood disorder interventions, and previously co-founded FoldSpace, an AI-driven spatial design platform. When I'm not coding, you'll find me teaching as a CS TA, mentoring students in algorithms and data structures, or exploring the latest in machine learning. I love working across the full stack from React frontends to Python backends, and I'm always looking for the next challenging project to dive into.
 
 
 # 💻 Tech Stack:
